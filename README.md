@@ -2,6 +2,9 @@
 
 This is a simple calculator app built using Android Studio. The calculator provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+## For MIT 581-2 
+UWU/PGU/MIT/23/064 - Navaneetham Venusaran
+
 ## Features
 
 - **Addition:** Add two numbers.
