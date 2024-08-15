@@ -1,0 +1,78 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log and temp files
+*.log
+*.temp
+*.tmp
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android build output
+app/build/
+app/release/
+app/intermediates/
+app/exploded-aar/
+app/.externalNativeBuild/
+app/.cxx/
+
+# NDK and CMake
+.externalNativeBuild/
+.cxx/
+
+# Dependency directories
+app/libs/
+app/.gradle/
+app/.idea/
+app/.settings/
+app/.metadata/
+
+# External native build folders
+cmake-build-debug/
+obj/
+
+# Packaging files
+*.apk
+*.ap_
+*.aab
+
+# Proguard
+proguard/
+proguard-rules.pro
+
+# IntelliJ related
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/caches
+.idea/modules.xml
+.idea/vcs.xml
+.idea/.name
+.idea/httpRequests
+.idea/dictionaries
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/diff.xml
+.idea/jarRepositories.xml
+
+# Miscellaneous
+*.orig
+*.bak
+*.swp
+*.swo
+
+# MacOS and Linux files
+.DS_Store
+*.swp
