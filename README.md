@@ -1,4 +1,3 @@
-
 # Simple Calculator
 
 This is a simple calculator app built using Android Studio. The calculator provides basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -28,18 +27,18 @@ This is a simple calculator app built using Android Studio. The calculator provi
 
 2. **Open the project in Android Studio:**
 
-    - Open Android Studio.
-    - Click on `File > Open`.
-    - Navigate to the cloned repository and select the project folder.
+   - Open Android Studio.
+   - Click on `File > Open`.
+   - Navigate to the cloned repository and select the project folder.
 
 3. **Build the project:**
 
-    - Android Studio will automatically start building the project. If not, click on `Build > Make Project`.
+   - Android Studio will automatically start building the project. If not, click on `Build > Make Project`.
 
 4. **Run the app:**
 
-    - Connect an Android device or start an emulator.
-    - Click on `Run > Run 'app'`.
+   - Connect an Android device or start an emulator.
+   - Click on `Run > Run 'app'`.
 
 ## Usage
 
